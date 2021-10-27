@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Displayable
+comment0.text=\n\ Class\ to\ display\ visually\ the\ functionality\ from\ Shape\ and\ shapetester\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ display()
+comment1.text=\n\ Once\ implimented,\ its\ defined\ with\ functionality\ of\ displaying\ shapes\n\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ the\ result\ produced\ by\ sampleMethod\n
+numComments=2

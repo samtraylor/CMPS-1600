@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ballot
+comment0.text=\n\ Class\ for\ creating\ a\ ballot\ for\ a\ certain\ office\ and\ adding\ cantidates\ to\ the\ ballot.\ Also\n\ has\ functionality\ of\ returning\ list\ of\ cantidatees\n\ \n\ @author\ Sam\ Traylor\ &\ Vaughn\ Bangash\n\ @version\ 1.0\n
+comment1.params=officeName
+comment1.target=Ballot(java.lang.String)
+comment1.text=\n\ Constructor\ used\ to\ create\ a\ new\ ballot\ for\ a\ certain\ office\n\ \n\ @param\ officeName\ is\ the\ name\ of\ the\ office\ as\ a\ string\n
+comment2.params=
+comment2.target=java.lang.String\ getOfficeName()
+comment2.text=\n\ Method\ for\ returning\ the\ name\ of\ the\ office\ that\ the\ ballot's\ for\n\ \n\ @return\ the\ name\ of\ the\ office\ in\ string\ form\n
+comment3.params=c
+comment3.target=void\ addCandidate(Candidate)
+comment3.text=\n\ Method\ for\ adding\ a\ cantidate\ object\ to\ the\ ArrayList\ of\ cantidates\ stored\n\ \n\ @param\ the\ Cantidate\ object\ to\ be\ added\ to\ the\ arraylist\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getCandidates()
+comment4.text=\n\ Method\ for\ returning\ the\ ArrayList\ of\ Candidate\ Objects\ \n\ \n\ @return\ ArrayList\ of\ Candidate\ objects\ \n
+numComments=5

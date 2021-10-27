@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ShapeTester
+comment0.text=\n\ Class\ to\ test\ shape's\ subclasses.\ No\ contstructor,\ just\ main\ method\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=shapeList
+comment1.target=void\ displayArray(java.util.ArrayList)
+comment1.text=\n\ method\ that\ takes\ an\ arraylist\ of\ shapes\ and\ displays\ it\ \n\ \n\ @param\ ArrayList<Shape>\ shapeList\ is\ a\ user-provided\ arraylist\ of\ shape\ objects\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ Main\ method\ contructs\ an\ arraylist,\ constructs\ one\ of\ each\ type\ of\ shape,\ then\ adds\ them\n\ to\ the\ arraylist.\ Then\ it\ loops\ through\ printing\ each\ shape's\ type.\ Then\ it\ loops\ through\n\ only\ circles\ printing\ their\ position\ in\ the\ array.\ Then\ prints\ how\ many\ shapes\ were\ \n\ made.\ Finally\ the\ method\ tests\ out\ the\ above-defined\ displayArray\ method\ iterating\ \n\ through\ shapes\ and\ printing\ out\ their\ dimensions\ (area,\ perimeter,\ type)\n
+numComments=3

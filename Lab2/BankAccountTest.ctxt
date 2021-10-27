@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BankAccountTest
+comment0.text=\n\ Used\ to\ test\ various\ functionalities\ of\ bank\ account\ and\ its\ subclasses\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method\:\ tests\ withdrawl,\ deposit,\ transfer,\ and\ interest\n
+numComments=2

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FileSelector
+comment1.params=owner\ title\ prompt\ fileIsInput
+comment1.target=FileSelector(java.awt.Frame,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=java.lang.String\ getSelectedFile()
+comment4.params=prompt\ fileIsInput
+comment4.target=void\ buildUI(java.lang.String,\ boolean)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8

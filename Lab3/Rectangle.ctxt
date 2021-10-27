@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ Program\ to\ create\ and\ find\ area/perimeter\ for\ a\ rectangle\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=rWidth\ rLength
+comment1.target=Rectangle(double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Rectangle,\ requires\ Length\ and\ with\n\ as\ doubles\n\ \n\ @param\ rWidth\ is\ a\ double\ representing\ the\ rectangles\ width\n\ @param\ rLength\ is\ a\ double\ representing\ the\ rectangles\ length\n
+comment2.params=
+comment2.target=double\ area()
+comment2.text=\n\ concrete\ area\ method\ for\ rectangle\n\n\n\ @return\ the\ area\ of\ the\ rect\ as\ a\ double\n
+comment3.params=
+comment3.target=double\ perimeter()
+comment3.text=\n\ concrete\ perimeter\ method\ for\ rectangle\n\n\n\ @return\ the\ perimeter\ of\ the\ rectangle\ as\ double\n
+comment4.params=
+comment4.target=java.lang.String\ getShape()
+comment4.text=\n\ method\ to\ return\ type\ of\ shape\ \n\n\n\ @return\ shape\ in\ string\ form\ \n
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Candidate
+comment0.text=\n\ Class\ representing\ a\ cantidate\n\ \n\ @author\ Sam\ Traylor\ &\ Vaughn\ Bangash\n\ @version\ 1.0\n
+comment1.params=name\ affiliation
+comment1.target=Candidate(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ cantidate\ object\n\ \n\ @param\ name\ is\ the\ name\ of\ the\ cantidate\ as\ a\ string\n\ @param\ affiliation\ is\ the\ affiliation\ of\ the\ cantidate\ as\ a\ string\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Method\ to\ return\ cantidate's\ name\n\ \n\ @return\ the\ \ name\ of\ cantidate\ as\ String\n
+comment3.params=
+comment3.target=java.lang.String\ getAffiliation()
+comment3.text=\n\ Method\ to\ return\ cantidate's\ affiliation\n\ \n\ @return\ the\ affiliation\ of\ cantidate\ as\ String\n
+comment4.params=
+comment4.target=int\ getVoteCount()
+comment4.text=\n\ Method\ to\ return\ the\ number\ of\ votes\n\ \n\ @return\ the\ vote\ count\ as\ int\n
+comment5.params=
+comment5.target=void\ tallyVote()
+comment5.text=\n\ Method\ to\ incriment\ the\ voteCount\ for\ the\ cantidate\n\ \n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Method\ to\ return\ the\ information\ on\ the\ cantidate\ \n\ \n\ @return\ the\ cantidate\ information\ in\ the\ format\ of\ cantidate\ name,\ space,\ dash,\ space\n\ then\ candidate\ affiliation\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CandidateTester
+comment0.text=\n\ JUnit\ Tests\ for\ functionality\ of\ Candidate\ Class\n\n\ @author\ Sam\ Traylor\ &\ Vaughn\ Bangash\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ First,\ constructs\ 2\ base\ case\ objects\ of\ Candidate\ and\ 3\ border\ cases.\n\ Then,\ testing\ begins\ \n
+numComments=2

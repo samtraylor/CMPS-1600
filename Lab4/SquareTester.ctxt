@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SquareTester
+comment0.text=\n\ Program\ to\ perform\ JUnit\ testing\ on\ the\ square\ class\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ class\ for\ testing\ Square.\ First,\ 5\ objects\ of\ square,\ two\ base\ cases\ and\ 3\ border\n\ cases\ will\ be\ initialized\ for\ later\ testing\n
+numComments=2

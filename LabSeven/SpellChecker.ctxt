@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SpellChecker
+comment0.text=\n\ Class\ used\ to\ instantiate\ objects\ of\ type\ SpellChecker,\ and\ to\ perform\ spell\ checks.\n\ The\ class\ has\ 2\ non-constructor\ methods\ used\ to\ assemble\ a\ list\ of\ words\ not\n\ found\ in\ the\ dictionary.\ The\ program\ reads\ in\ from\ a\ file\ when\ performing\ spell\n\ checks.\n\ \n\ @author\ Sam\ Traylor\ \n\ @version\ 1.0\n
+comment1.params=dictionaryFileName
+comment1.target=SpellChecker(java.lang.String)
+comment1.text=\n\ Constructor\ method,\ instantiates\ object\ of\ type\ SpellChecker,\ creating\ a\ dictionary\ in\ both\ HashSet\ and\ ArrayList\ form\ from\ a\ txt\ file.\ The\ dictionaries\ will\ contain\ no\ punctuation\ and\ no\ uppercase\ letters\n\ \n\ @param\ dictionaryFileName\ is\ String\ representing\ the\ file\ location\ of\ desired\ dictionary\n\ @return\ SpellChecker\ object\ with\ both\ dictionaries\ \n
+comment2.params=textFileName
+comment2.target=java.util.List\ hashCheckSpellings(java.lang.String)
+comment2.text=\n\ Method\ to\ read\ in\ a\ text\ file\ and\ check\ for\ spelling\ errors\ using\ a\ HashSet\ dictionary.\ It\ will\ return\ a\ list\ of\ all\ the\ words\ that\ are\ in\ the\ text\ but\ not\ the\ dictionary.\n\ \n\ @param\ textFileName\ is\ a\ String\ containing\ the\ file\ path\ for\ the\ text\ being\ checked\n\ @return\ List\ of\ Strings\ containing\ all\ words\ from\ the\ text\ which\ don't\ exist\ in\ the\ dictionary\n
+comment3.params=textFileName
+comment3.target=java.util.List\ listCheckSpellings(java.lang.String)
+comment3.text=\n\ Method\ to\ read\ in\ a\ text\ file\ and\ check\ for\ spelling\ errors\ using\ a\ list\ dictionary.\ It\ will\ return\ a\ list\ of\ all\ the\ words\ that\ are\ in\ the\ text\ but\ not\ the\ dictionary.\n\ \n\ @param\ textFileName\ is\ a\ String\ containing\ the\ file\ path\ for\ the\ text\ being\ checked\n\ @return\ List\ of\ Strings\ containing\ all\ words\ from\ the\ text\ which\ don't\ exist\ in\ the\ dictionary\n
+numComments=4

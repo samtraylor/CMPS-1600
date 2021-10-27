@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Utensil
+comment1.params=t
+comment1.target=Utensil(java.lang.String)
+comment2.params=c
+comment2.target=void\ setCost(double)
+comment3.params=
+comment3.target=double\ getCost()
+comment4.params=c
+comment4.target=void\ setColor(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BallotTester
+comment0.text=\n\ JUnit\ test\ for\ Ballot\ Class\ and\ its\ methods\n\n\ @author\ Sam\ Traylor\ &\ Vaugn\ Bangash\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ First,\ construct\ 2\ base\ case\ ballots\ and\ 2\ border\ case\ ballots\ \n\ Then,\ test\ the\ methods\ in\ Ballot\ on\ these\ cases\ \n\ \n
+numComments=2

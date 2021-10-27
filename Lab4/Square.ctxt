@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\n\ Subclass\ of\ Rectangle,\ used\ to\ instantiate\ a\ square\ object.\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=size
+comment1.target=Square(double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Square\n\ \n\ @param\ size\ is\ used\ for\ the\ length\ and\ width\ of\ the\ square\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ Overriden\ version\ of\ the\ toString\ \ method\ inherited\ from\ Rectangle.\ Prints\ out\ user\n\ friendly\ information\ about\ the\ square\ object\n\ \ \ \n\ @return\ Returns\ a\ string\ saying\ that\ the\ object\ is\ a\ square,\ and\ has\ the\ given\ \n\ dimensions\ \ \n
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=double\ getPerimeter()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\n\ Overriden\ version\ of\ the\ equals\ method\ from\ the\ object\ class.\n\ Redefines\ to\ base\ equality\ off\ of\ 2\ squares\ being\ the\ same\ size.\n\ \n\ @return\ Returns\ true\ or\ false\ based\ on\ whether\ the\ size\ is\ the\ same\n
+numComments=6

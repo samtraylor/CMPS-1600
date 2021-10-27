@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\n\ Abstract\ class\ Shape\ -\ Uses\ abstract\ methods\ and\ inheritance\ to\ impliment\ the\n\ creation\ of\ shapes,\ and\ the\ calculation\ of\ things\ like\ area\ and\ perimeter\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=void\ display()
+comment2.params=
+comment2.target=double\ area()
+comment2.text=\n\ Method\ to\ calculate\ and\ return\ area.\ Must\ be\ defined\ by\ subclass\ \n\ \ \n\ @return\ the\ area\ of\ the\ object\ \n
+comment3.params=
+comment3.target=double\ perimeter()
+comment3.text=\n\ Method\ to\ calculate\ and\ return\ perimeter.\ Must\ be\ defined\ by\ subclass\ \n\ \ \n\ @return\ the\ perimeter\ of\ the\ object\ \n
+comment4.params=
+comment4.target=java.lang.String\ getShape()
+comment4.text=\n\ Method\ to\ return\ type\ of\ shape\ \n\ \ \n\ @return\ the\ type\ of\ shape\ \n
+comment5.params=
+comment5.target=void\ increment()
+comment5.text=\n\ Method\ to\ incriment\ the\ counter\ \n
+comment6.params=sha
+comment6.target=int\ compareTo(Shape)
+numComments=7

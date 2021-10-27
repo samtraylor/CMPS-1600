@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BallotReader
+comment0.text=\n\ Class\ used\ to\ read\ information\ from\ an\ input\ file\ and\ create\ a\ ballot\ based\ on\ that\ info\n\ \n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=filename
+comment1.target=Ballot\ readBallot(java.lang.String)
+comment1.text=\n\ Method\ to\ read\ ballot\ information\ from\ a\ file\ and\ process\ it.\ Reads\ in\ the\ office\ name\ from\n\ the\ first\ line,\ and\ the\ amount\ of\ candidates\ from\ the\ second\ line.\ Then,\ on\ candidate\ lines,\ using\ \n\ the\ ';'\ as\ a\ delimiter,\ the\ code\ establishes\ everything\ before\ that\ symbol\ as\ the\ name,\ and\ everything\n\ from\ the\ after\ the\ ';'\ until\ the\ end\ of\ the\ line\ as\ the\ affiliation.\ After\ iterating\ through\ all\ the\n\ candidates,\ a\ ballot\ is\ created.\ The\ candidates\ are\ added\ by\ a\ loop,\ which\ instantiates\ a\ new\ object\n\ of\ candidate\ each\ time\ with\ the\ affiliation\ and\ name\ that\ correspond.\ By\ the\ end\ of\ that,\ there's\ a\ \n\ ballot\ with\ all\ the\ candidates\ from\ the\ file.\n\n\ @param\ filename\ is\ the\ name\ of\ the\ input\ file\ as\ a\ string\n\ @return\ a\ ballot\ object\ constructed\ from\ the\ data\ in\ the\ input\ file\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CodeChecker
+comment0.text=\n\ CodeChecker\ can\ be\ used\ to\ detect\ mismatched\ parentheses\ (including\n\ {},\ [],\ and())\ in\ a\ source\ file\ passed\ in\ through\ the\ command\ line\n\ arguments.\ \n\ <br>\n\ Usage\:\ {@code\ java\ CodeChecker\ /path/to/source.java}\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Method\ to\ scan\ the\ contents\ of\ a\ specified\ file\ into\ a\ list\ of\ strings\ and\ test\ it\ for\n\ mismatched\ parenthesis\ using\ the\ containsMismatchedParenthesis()\ method\n
+comment2.params=source
+comment2.target=boolean\ containsMismatchedParentheses(java.util.List)
+comment2.text=\n\ Return\ true\ if\ the\ list\ of\ lines\ contains\ mismatched\ parentheses.\n\ This\ method\ also\ prints\ out\ error\ messages\ to\ std\ out\ if\n\ mismatched\ parentheses\ are\ discovered.\ Parentheses\ checked\ include\n\ {},\ [],\ and\ ().\n\ @param\ lines\ the\ list\ of\ lines\n\ @return\ true\ if\ the\ lines\ contain\ mismatched\ parentheses,\ false\n\ otherwise\n
+numComments=3

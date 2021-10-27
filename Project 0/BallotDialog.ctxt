@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BallotDialog
+comment1.params=owner\ ballot
+comment1.target=BallotDialog(java.awt.Frame,\ Ballot)
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=ballot
+comment3.target=void\ buildUI(Ballot)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ castVote()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\n\ Program\ to\ create\ and\ find\ area/perimeter\ for\ a\ triangle\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=re1\ re2\ re3
+comment1.target=Triangle(double,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ triangle,\ requires\ 3\ sides\ given\ as\n\ doubles.\n\ \n\ @param\ re1\ is\ a\ double\ representing\ the\ triangles\ 1st\ side\n\ @param\ re2\ is\ a\ double\ representing\ the\ triangles\ 2nd\ side\n\ @param\ re3\ is\ a\ double\ representing\ the\ triangles\ 3rd\ side\n
+comment2.params=
+comment2.target=double\ area()
+comment2.text=\n\ concrete\ area\ method\ for\ triangle\n\n\n\ @return\ the\ area\ of\ the\ triangle\ as\ a\ double\n
+comment3.params=
+comment3.target=double\ perimeter()
+comment3.text=\n\ concrete\ perimeter\ method\ for\ triangle\n\n\n\ @return\ the\ perimeter\ of\ the\ triangle\ as\ double\n
+comment4.params=
+comment4.target=java.lang.String\ getShape()
+comment4.text=\n\ method\ to\ return\ type\ of\ shape\ \n\n\n\ @return\ shape\ in\ string\ form\ \n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\n\ SavingsAccount\ extends\ the\ functionality\ of\ BankAccount,\ now\ including\ a\ system\ for\ adding\n\ interest\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=savname\ Balance\ interestRate
+comment1.target=SavingsAccount(java.lang.String,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ creating\ savings\ accounts\n\ @Param\ savname\ is\ the\ name\ for\ the\ savings\ account\n\ @Param\ Balance\ is\ the\ account\ balance\n\ @Param\ interestRate\ is\ the\ rate\ to\ be\ used\n
+comment2.params=
+comment2.target=void\ addInterest()
+comment2.text=\n\ This\ method\ adds\ interest\ based\ on\ the\ interest\ rate\ previously\ given\ during\ construction\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ResultWriter
+comment0.text=\n\ Class\ for\ writing\ results\ to\ an\ output\ file.\ Configures\ special\ formatting\ and\ uses\ it\n\ to\ print\ out\ the\ results\ in\ the\ necessary\ layout\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=filename\ ballot
+comment1.target=void\ writeResults(java.lang.String,\ Ballot)
+comment1.text=\n\ Method\ to\ \ write\ results\ to\ output\ file.\ Opens\ file,\ determines\ \#\ of\ dashes\ to\ be\ placed\ under\n\ office\ name,\ then\ writes\ them,\ then\ prints\ newline.\ Next,\ it's\ determined\ which\ candidate\n\ has\ a\ 'tag'\ of\ the\ longest\ length\ (tag\ is\ their\ name\ and\ affiliation\ seperated\ by\ a\ dash\n\ with\ a\ space\ on\ both\ sides).\ From\ there,\ we\ know\ that\ the\ length\ of\ every\ line\ should\ be\n\ the\ longest\ tag\ plus\ 12.\ Using\ that,\ we\ iterate\ through\ each\ candidate,\ placing\ the\ correct\n\ amount\ of\ spaces\ after\ their\ tag\ to\ where\ the\ vote\ count\ (regardless\ of\ length),\ combined\ \n\ with\ the\ spaces,\ equals\ 12\ chacters\ (thus\ ensuring\ uniformity\ in\ the\ lines).\ Next,\ the\ \n\ winner\ is\ calculated\ and\ displayed.\n\ \n\ @param\ filename\ is\ the\ desired\ name\ of\ your\ output\ file\n\ @param\ ballot\ is\ the\ ballot\ object\ whose\ info\ is\ \ being\ written\ to\ the\ output\ file\n
+numComments=2

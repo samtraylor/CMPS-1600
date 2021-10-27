@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SquareTester
+comment0.text=\n\ Used\ to\ test\ the\ functioning\ of\ both\ square\ and\ rectangle\ for\ lab2.\ Not\ for\ instantiation,\n\ contains\ main\ method.\n\n\ @author\ Sam\ Traylor\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method.\ Creates\ a\ square,\ prints,\ its\ dimensions,\ calculates\ and\ displays\ area\n\ and\ peremiter.\ Then,\ creates\ another\ identical\ square,\ and\ 2\ rectangles\ identical\ to\ \n\ eachother,\ and\ prints\ out\ the\ value\ returned\ by\ "equals"\ comparing\ each\ pair.\ Last,\ \n\ it\ makes\ those\ same\ comparisons\ using\ the\ \=\=\ operator.\n\ \n
+numComments=2

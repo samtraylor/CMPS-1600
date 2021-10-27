@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PerfectCandidate
+comment0.text=\n\ This\ assignment\ tasks\ the\ programmer\ with\ writing\ code\ for\ methods\ implemented\ by\ a\ voting\n\ machine.\ The\ functionality\ of\ a\ GUI,\ and\ the\ stubs\ for\ methods\ needed\ for\ the\ code\ to\ work\n\ already\ exist,\ but\ need\ to\ be\ completed.\ The\ goal\ is\ for\ the\ cantidates\ listed\ on\ the\ input\n\ file\ to\ populate\ a\ ballot\ that\ the\ user\ can\ interact\ with,\ selecting\ a\ candidate\ (or\ \n\ several)\ and\ casting\ votes\ for\ them.\ Then,\ the\ user\ should\ be\ able\ to\ select\ where\ that\ \n\ information\ (the\ candidates\ vote\ counts\ and\ the\ winner)\ is\ written\ to,\ as\ an\ output\ file.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
